@@ -1,0 +1,26 @@
+{
+  "name": "gatsby",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/lab": "^4.0.0-alpha.39",
+    "auth0-js": "^9.12.2",
+    "gatsby": "latest",
+    "gatsby-plugin-create-client-paths": "^2.1.21",
+    "gatsby-plugin-material-ui": "latest",
+    "gatsby-plugin-react-helmet": "latest",
+    "gatsby-plugin-react-svg": "^3.0.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-helmet": "latest",
+    "uuid": "^3.4.0"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  }
+}
